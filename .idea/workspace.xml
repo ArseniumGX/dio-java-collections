@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="Exercicio Ordenação">
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/set/OperaceosBasicas/ConjuntoConvidados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/set/OperaceosBasicas/ConjuntoPalavrasUnicas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/set/OperaceosBasicas/Convidado.java" afterDir="false" />
+    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="Exercicio basico set e desafio conjuto palavras unicas">
+      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/set/Pesquisa/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/set/Pesquisa/Contato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +44,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConjuntoPalavrasUnicas">
-    <configuration name="CatalogoLivros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.list.Pesquisa.CatalogoLivros" />
+  <component name="RunManager" selected="Application.AgendaContatos">
+    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.set.Pesquisa.AgendaContatos" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.list.Pesquisa.*" />
+          <option name="PATTERN" value="edu.arseniumgx.set.Pesquisa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgendaContatos" />
         <item itemvalue="Application.ConjuntoPalavrasUnicas" />
         <item itemvalue="Application.ConjuntoConvidados" />
         <item itemvalue="Application.OrdenacaoPessoa" />
         <item itemvalue="Application.ListaTarefa" />
-        <item itemvalue="Application.CatalogoLivros" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694802605096</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercicio basico set e desafio conjuto palavras unicas">
+      <option name="closed" value="true" />
+      <created>1695063239962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695063239962</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +188,8 @@
     <MESSAGE value="Desafio List carrinho de compras" />
     <MESSAGE value="Exercicio List catalogo de livros" />
     <MESSAGE value="Exercicio Ordenação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio Ordenação" />
+    <MESSAGE value="Exercicio basico set e desafio conjuto palavras unicas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio basico set e desafio conjuto palavras unicas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
