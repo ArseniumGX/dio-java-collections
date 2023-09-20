@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="Exercicio basico map operações basicas desafio dicionario">
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/Pesquisa/EstoqueProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/Pesquisa/Produto.java" afterDir="false" />
+    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="Exercicio basico map pesquisa">
+      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/Pesquisa/ContagemPalavras.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +42,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EstoqueProdutos">
-    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.set.Ordenacao.CadastroProdutos" />
+  <component name="RunManager" selected="Application.ContagemPalavras">
+    <configuration name="ContagemPalavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.Pesquisa.ContagemPalavras" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.set.Ordenacao.*" />
+          <option name="PATTERN" value="edu.arseniumgx.map.Pesquisa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContagemPalavras" />
         <item itemvalue="Application.EstoqueProdutos" />
         <item itemvalue="Application.Dicionario" />
         <item itemvalue="Application.edu.arseniumgx.map.OperacoesBasicas.AgendaContatos" />
         <item itemvalue="Application.GerenciadorAlunos" />
-        <item itemvalue="Application.CadastroProdutos" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695219358712</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Exercicio basico map pesquisa">
+      <option name="closed" value="true" />
+      <created>1695221739306</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695221739306</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +249,8 @@
     <MESSAGE value="Exercicio basico set ordenação desafio gerenciador alunos" />
     <MESSAGE value="Exercicio basico map operações basicas" />
     <MESSAGE value="Exercicio basico map operações basicas desafio dicionario" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio basico map operações basicas desafio dicionario" />
+    <MESSAGE value="Exercicio basico map pesquisa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio basico map pesquisa" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
