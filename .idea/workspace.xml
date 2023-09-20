@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="Exercicio basico set ordenação desafio gerenciador alunos">
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/OperacoesBasicas/AgendaContatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/OperacoesBasicas/Contato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="Exercicio basico map operações basicas">
+      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/OperacoesBasicas/Dicionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +43,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.edu.arseniumgx.map.OperacoesBasicas.AgendaContatos">
-    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.set.Pesquisa.AgendaContatos" />
+  <component name="RunManager" selected="Application.Dicionario">
+    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.set.Ordenacao.CadastroProdutos" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.set.Pesquisa.*" />
+          <option name="PATTERN" value="edu.arseniumgx.set.Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.set.Ordenacao.CadastroProdutos" />
+    <configuration name="Dicionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.OperacoesBasicas.Dicionario" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.set.Ordenacao.*" />
+          <option name="PATTERN" value="edu.arseniumgx.map.OperacoesBasicas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dicionario" />
         <item itemvalue="Application.edu.arseniumgx.map.OperacoesBasicas.AgendaContatos" />
         <item itemvalue="Application.GerenciadorAlunos" />
         <item itemvalue="Application.CadastroProdutos" />
         <item itemvalue="Application.ListaTarefas" />
-        <item itemvalue="Application.AgendaContatos" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695070453760</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercicio basico map operações basicas">
+      <option name="closed" value="true" />
+      <created>1695218681008</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695218681008</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +232,8 @@
     <MESSAGE value="Exercicio basico set desafio lista de tarefas" />
     <MESSAGE value="Exercicio basico set ordenação" />
     <MESSAGE value="Exercicio basico set ordenação desafio gerenciador alunos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio basico set ordenação desafio gerenciador alunos" />
+    <MESSAGE value="Exercicio basico map operações basicas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio basico map operações basicas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
