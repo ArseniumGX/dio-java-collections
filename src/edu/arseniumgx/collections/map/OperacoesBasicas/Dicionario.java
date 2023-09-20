@@ -13,15 +13,18 @@ public class Dicionario {
   public void adicionarPalavra(String palavra, String definicao) {
     dicionarioMap.put(palavra, definicao);
   }
+
   public void removerPalavra(String palavra) {
-    if(!dicionarioMap.isEmpty()){
+    if (!dicionarioMap.isEmpty()) {
       dicionarioMap.remove(palavra);
     }
   }
+
   public void exibirPalavras() {
     System.out.println(dicionarioMap);
   }
-  public String pesquisarPorPalavra(String palavra){
+
+  public String pesquisarPorPalavra(String palavra) {
     return !dicionarioMap.isEmpty()
             ? dicionarioMap.get(palavra) : null;
   }

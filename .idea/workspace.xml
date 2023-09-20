@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="Exercicio basico map ordenação">
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/Ordenacao/LivrariaOnline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/Ordenacao/Livro.java" afterDir="false" />
+    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="refact: mv pacotes list set e map para o pacote collection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/arseniumgx/collections/map/OperacoesBasicas/AgendaContatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/arseniumgx/collections/map/OperacoesBasicas/AgendaContatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/arseniumgx/collections/map/OperacoesBasicas/Dicionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/arseniumgx/collections/map/OperacoesBasicas/Dicionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/arseniumgx/collections/map/Ordenacao/AgendaEventos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/arseniumgx/collections/map/Ordenacao/AgendaEventos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -43,82 +45,6 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LivrariaOnline">
-    <configuration name="AgendaEventos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.Ordenacao.AgendaEventos" />
-      <module name="dio-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.map.Ordenacao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContagemPalavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.Pesquisa.ContagemPalavras" />
-      <module name="dio-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.map.Pesquisa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dicionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.OperacoesBasicas.Dicionario" />
-      <module name="dio-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.map.OperacoesBasicas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EstoqueProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.Pesquisa.EstoqueProdutos" />
-      <module name="dio-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.map.Pesquisa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LivrariaOnline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.Ordenacao.LivrariaOnline" />
-      <module name="dio-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.map.Ordenacao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.LivrariaOnline" />
-        <item itemvalue="Application.AgendaEventos" />
-        <item itemvalue="Application.ContagemPalavras" />
-        <item itemvalue="Application.EstoqueProdutos" />
-        <item itemvalue="Application.Dicionario" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -240,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695225677167</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="refact: mv pacotes list set e map para o pacote collection">
+      <option name="closed" value="true" />
+      <created>1695228597888</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695228597888</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,7 +203,8 @@
     <MESSAGE value="Exercicio basico map pesquisa" />
     <MESSAGE value="Exercicio basico map pesquisa desafio ContagemPalavras" />
     <MESSAGE value="Exercicio basico map ordenação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio basico map ordenação" />
+    <MESSAGE value="refact: mv pacotes list set e map para o pacote collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="refact: mv pacotes list set e map para o pacote collection" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
