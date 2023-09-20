@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="Exercicio basico map pesquisa desafio ContagemPalavras">
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/Ordenacao/AgendaEventos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/Ordenacao/Evento.java" afterDir="false" />
+    <list default="true" id="f879ebf8-3b1d-404f-8abc-3a4c3a538dba" name="Changes" comment="Exercicio basico map ordenação">
+      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/Ordenacao/LivrariaOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/arseniumgx/map/Ordenacao/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AgendaEventos">
+  <component name="RunManager" selected="Application.LivrariaOnline">
     <configuration name="AgendaEventos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.Ordenacao.AgendaEventos" />
       <module name="dio-java-collections" />
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="edu.arseniumgx.map.OperacoesBasicas.AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.OperacoesBasicas.AgendaContatos" />
+    <configuration name="LivrariaOnline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.arseniumgx.map.Ordenacao.LivrariaOnline" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.arseniumgx.map.OperacoesBasicas.*" />
+          <option name="PATTERN" value="edu.arseniumgx.map.Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LivrariaOnline" />
         <item itemvalue="Application.AgendaEventos" />
         <item itemvalue="Application.ContagemPalavras" />
         <item itemvalue="Application.EstoqueProdutos" />
         <item itemvalue="Application.Dicionario" />
-        <item itemvalue="Application.edu.arseniumgx.map.OperacoesBasicas.AgendaContatos" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695223662731</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Exercicio basico map ordenação">
+      <option name="closed" value="true" />
+      <created>1695225677167</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695225677167</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,7 +268,8 @@
     <MESSAGE value="Exercicio basico map operações basicas desafio dicionario" />
     <MESSAGE value="Exercicio basico map pesquisa" />
     <MESSAGE value="Exercicio basico map pesquisa desafio ContagemPalavras" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio basico map pesquisa desafio ContagemPalavras" />
+    <MESSAGE value="Exercicio basico map ordenação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio basico map ordenação" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
